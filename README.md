@@ -1,2 +1,3 @@
 # Flutter-ToDo-App
-This is a simple Todo app developed using Flutter, designed to help users organize their tasks efficiently. Users can view, add and remove tasks.
+
+      This is a simple Todo app developed using Flutter, designed to help users organize their tasks efficiently. Users can add tasks with a descriptive title using the provided text field and "Add Task" button. The app features dynamic task management, allowing users to add, view, and remove tasks seamlessly. Tasks are displayed in a scrollable list, ensuring visibility of all added tasks. The delete button associated with each task enables users to remove completed or unnecessary tasks with ease. This app serves as a practical example for Flutter beginners, showcasing essential concepts such as state management, text input handling, list rendering, and UI design. Contributions are welcome to enhance the functionality and user experience of this simple Todo app.
